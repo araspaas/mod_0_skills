@@ -1,0 +1,11 @@
+100% beef Burger
+
+contents = ["bun", "patty", "cheese", "lettuce"]
+weight = 16 oz
+price = 14.50
+Is_eaten = true
+
+Eat_burger = true
+Pay_for_burger = 14.50
+Size_of_burger = 16 oz
+cook_patty = Burger
