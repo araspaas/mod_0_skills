@@ -1,17 +1,9 @@
-food = pizza
-Is_delicious = true
-food = pasta
+food = "pizza"
+is_delicious = true
+food = "pasta"
 num2 = 12
 num7 = 3
-quotient = 4
-songs = ["otherside", "born free", "thriftshop", "gold"]
-```ruby
+quotient = num2 / num7
+songs = ["Otherside", "Born Free", "Thriftshop", "Gold"]
 songs.shift
-"otherside"
-songs
-["born free", "thriftshop", "gold"]
-```
-
-```ruby
 food.length
-```

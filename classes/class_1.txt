@@ -5,11 +5,11 @@ Attributes
 * contents(string)
 * weight(integer)
 * price(float)
-* Is_eaten(boolean)
+* is_eaten(boolean)
 
 Methods
 
-* Eat_burger (eat burger)(Is_eaten)
-* Pay_for_burger(pay for it)(price)
-* Size_of_burger(how big is it)(weight)
-* cook_patty(cook burger)(contents)
+* eat_burger (eat burger)(is_eaten)
+* pay_for_burger (pay for it)(price)
+* remove_ingredient (remove an item)(weight)
+* cook_patty (cook burger)(contents)

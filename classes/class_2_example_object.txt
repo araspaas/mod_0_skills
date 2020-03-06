@@ -1,11 +1,12 @@
-Pizza oven
+PizzaOven
 
-* Num_pizzas = 4
-* Type_of_pizza = ["sausage", "pepperoni", "mushroom","onion"]
+* num_pizzas = 4
+* type_of_pizza = ["sausage", "pepperoni", "mushroom","onion"]
 * temp = 500.0
-* Is_on = true
+* is_on = true
 
 cook_pizza = ["sausage", "pepperoni", "mushroom" "onion"]
 turn_on_oven = true
 put_pizza_in = 4
-Turn_up_temp = 500.0
+turn_up_temp = 500.0
+ 

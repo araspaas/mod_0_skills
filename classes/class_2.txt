@@ -1,13 +1,13 @@
-oven
+Oven
 
-* Num_pizzas(integer)
-* Type_of_pizza(array)
-* Temp(float)
-* Is_on(boolean)
+* num_pizzas(integer)
+* type_of_pizza(array)
+* temp(float)
+* is_on(boolean)
 
 Methods
 
-cook_Pizza(cook the pizza)(Type_of_pizza)
+cook_pizza(cook the pizza)(type_of_pizza)
 turn_on_oven(turn the oven on)(boolean)
-put_pizza_in(put in pizza)(Num_pizzas)
-Turn_up_temp(heat up oven)(temp)
+put_pizza_in(put in pizza)(num_pizzas)
+turn_up_temp(heat up oven)(temp)

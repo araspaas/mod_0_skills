@@ -1,11 +1,11 @@
-100% beef Burger
+BeefBurger
 
 contents = ["bun", "patty", "cheese", "lettuce"]
 weight = 16 oz
 price = 14.50
-Is_eaten = true
+is_eaten = true
 
-Eat_burger = true
-Pay_for_burger = 14.50
-Size_of_burger = 16 oz
+eat_burger = true
+pay_for_burger = 14.50
+remove_ingredient = remove lettuce
 cook_patty = Burger
